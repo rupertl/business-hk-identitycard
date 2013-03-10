@@ -25,13 +25,13 @@ details on the format.
 
 Source code can be found on Github. Pull requests for bug fixes welcome.
 
-    L<http://github.com/rupertl/business-hk-identitycard/tree/master>
+    http://github.com/rupertl/business-hk-identitycard/tree/master
 
 =cut
 
 =method new
 
-Accepts a scalar representing the ID. IDs look like C<A123456(7)>, ie
+Accepts a scalar representing the ID. IDs look like C<A123456(3)>, ie
 an alphabetic prefix, siz digits and a check digit. The prefix can be
 one or two characters and the brackets are optional for the check
 digit.
