@@ -30,7 +30,7 @@ $hkid = $hkid->new('A123466(0)');
 ok($hkid->is_valid(), 'Valid HKID, check digit 0');
 
 # Valid ID with two prefix characters
-$hkid = $hkid->new('UH456123(6)');
+$hkid = $hkid->new('UH456123(7)');
 ok($hkid->is_valid(), 'Valid HKID, two prefix characters');
 
 # Try some invalid IDs
