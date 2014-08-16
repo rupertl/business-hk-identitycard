@@ -4,7 +4,7 @@ Business::HK::IdentityCard - validate identity card numbers used in Hong Kong
 
 # VERSION
 
-version 0.002
+version 1.000
 
 # SYNOPSIS
 
@@ -64,7 +64,7 @@ Rupert Lane <rupert@rupert-lane.org>
 
 # COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2013 by Rupert Lane.
+This software is copyright (c) 2014 by Rupert Lane.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
