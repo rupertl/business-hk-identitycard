@@ -2,6 +2,10 @@ Revision history for {{$dist->name}}
 
 {{$NEXT}}
 
+1.000     2014-08-16 12:50:56+07:00 Asia/Bangkok
+
+  * Set version to 1.000 as stable and no further changes expected
+
 0.002     2013-04-07 13:01:40 Asia/Hong_Kong
 
   * Fixed bug with handling of IDs with two prefix chars
